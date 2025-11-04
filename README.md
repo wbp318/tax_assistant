@@ -2,6 +2,8 @@
 
 A comprehensive tax management system designed for farming operations with multiple entities, built with expertise in federal and Louisiana state tax codes.
 
+> **📋 LICENSE NOTICE:** This software is dual-licensed. Free for educational/personal use. Commercial license required for farming operations. See [LICENSE](LICENSE) for details.
+
 ## Features
 
 ### Multi-Entity Management
@@ -138,8 +140,31 @@ This system is designed to assist with tax preparation and planning. Always cons
 
 ## License
 
-Proprietary - For use by Tap Parker Farms operations only
+This project is available under a **DUAL LICENSE**:
+
+### Free for Educational/Personal Use
+- ✓ View and study the code
+- ✓ Learn from the tax calculation logic
+- ✓ Use for educational purposes
+- ✗ Cannot use for commercial farming operations
+
+### Commercial License Required for:
+- Farming operations using this for business tax management
+- Tax preparation services
+- Any revenue-generating agricultural business
+- Production deployments
+
+**For commercial licensing inquiries, contact:** [Your Email]
+
+See the [LICENSE](LICENSE) file for complete terms.
+
+### Why This Dual License?
+This approach allows the farming and tax community to learn from and benefit from
+the architecture and approach, while supporting the continued development and
+maintenance of the software through commercial licensing.
 
 ## Support
 
 For issues or questions, contact your tax advisor or system administrator.
+
+For commercial licensing and technical support inquiries: [Your Email]

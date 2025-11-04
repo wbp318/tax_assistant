@@ -1,0 +1,132 @@
+# DUAL LICENSE
+
+This software is available under a dual licensing model:
+
+## 1. NON-COMMERCIAL LICENSE (Free)
+
+### Permissions Granted
+You are free to:
+- **View** the source code for educational purposes
+- **Use** this software for personal, non-commercial learning
+- **Study** the code to understand tax calculations and software architecture
+- **Use** for educational projects and coursework
+- **Test** the software in non-production environments
+
+### Restrictions
+You may NOT:
+- Use this software for any commercial farming operation
+- Use this software to provide tax preparation services
+- Use this software for any business that generates revenue
+- Distribute copies of the software
+- Create derivative works for commercial purposes
+- Remove or modify license notices
+
+### Attribution Required
+If you reference or discuss this software in educational materials, presentations,
+or publications, you must provide appropriate attribution to the original author.
+
+---
+
+## 2. COMMERCIAL LICENSE (Paid)
+
+### Who Needs a Commercial License?
+You need a commercial license if you are:
+- A farming operation using this software for business tax management
+- A tax preparation service using this software for clients
+- An agricultural business using this for financial management
+- Any entity using this software in a revenue-generating capacity
+- Anyone deploying this software in a production environment
+
+### Commercial License Benefits
+- Full rights to use the software for your farming operation
+- Technical support and updates
+- Customization assistance available
+- No attribution requirements
+- Legal indemnification
+- Priority bug fixes and feature requests
+
+### Obtaining a Commercial License
+For commercial licensing inquiries, please contact:
+
+**Email:** [Your Email - e.g., licensing@tapparkerfarms.com]
+**Subject:** Tax Assistant Commercial License Request
+
+Include in your inquiry:
+- Type of farming operation
+- Expected usage (single farm, multiple entities, tax prep service, etc.)
+- Number of entities/users
+- Any customization needs
+
+Pricing is based on:
+- Operation size (gross farm income)
+- Number of entities managed
+- Support requirements
+- Customization needs
+
+---
+
+## GENERAL TERMS
+
+### Copyright
+Copyright © 2024 Tap Parker Farms. All rights reserved.
+
+### No Warranty
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+### Tax Compliance Disclaimer
+This software is designed to assist with tax calculations and record-keeping.
+It does NOT constitute professional tax advice. Always consult with a qualified
+CPA or tax professional before making tax decisions or filing tax returns.
+
+The tax calculations are based on 2024 federal and Louisiana state tax law and
+may not reflect future changes. Users are responsible for ensuring compliance
+with current tax regulations.
+
+### Enforcement
+Unauthorized commercial use of this software may result in:
+- Legal action for copyright infringement
+- Claims for damages and lost licensing revenue
+- Injunctive relief to cease unauthorized use
+
+We actively monitor for unauthorized commercial use.
+
+### Modifications
+Tap Parker Farms reserves the right to modify these license terms at any time.
+Changes will not affect existing commercial licenses already granted.
+
+---
+
+## LICENSE SUMMARY
+
+| Use Case | License Required | Cost |
+|----------|-----------------|------|
+| Learning/Education | Non-Commercial | FREE |
+| Personal Tax Study | Non-Commercial | FREE |
+| Academic Research | Non-Commercial | FREE |
+| Actual Farming Operation | Commercial | PAID |
+| Tax Preparation Business | Commercial | PAID |
+| Multi-Entity Farm Management | Commercial | PAID |
+| Agricultural Consulting | Commercial | PAID |
+
+---
+
+## QUESTIONS?
+
+If you're unsure which license applies to your use case, please contact us before
+using the software. We're happy to clarify and work with you to find an appropriate
+licensing arrangement.
+
+**Contact:** [Your Email]
+**GitHub:** https://github.com/wbp318/tax_assistant
+
+---
+
+**Version:** 1.0
+**Last Updated:** November 3, 2025
+**Effective Date:** November 3, 2025
