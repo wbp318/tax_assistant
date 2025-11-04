@@ -154,7 +154,7 @@ This project is available under a **DUAL LICENSE**:
 - Any revenue-generating agricultural business
 - Production deployments
 
-**For commercial licensing inquiries, contact:** [Your Email]
+**For commercial licensing inquiries, contact:** wbp93623@gmail.com
 
 See the [LICENSE](LICENSE) file for complete terms.
 
@@ -167,4 +167,4 @@ maintenance of the software through commercial licensing.
 
 For issues or questions, contact your tax advisor or system administrator.
 
-For commercial licensing and technical support inquiries: [Your Email]
+For commercial licensing and technical support inquiries: wbp93623@gmail.com
